@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141915528-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-141915528-1');
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Philip Kiely & Company</title>
+    <!--boostrap 4 CSS-->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!--Custom CSS-->
+    <link rel="stylesheet" href="/assets/style.css" type="text/css">
+    <!--JQUERY-->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+    <!--boostrap 4 JS-->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>    <!--Font Awsome 5.8 (free version)-->
+    <!--font awesome-->
+    <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/brands.js" integrity="sha384-rUOIFHM3HXni/WG5pzDhA1e2Js5nn4bWudTYujHbbI9ztBIxK54CL4ZNZWwcBQeD" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/fontawesome.js" integrity="sha384-EMmnH+Njn8umuoSMZ3Ae3bC9hDknHKOWL2e9WJD/cN6XLeAN7tr5ZQ0Hx5HDHtkS" crossorigin="anonymous"></script>
+    
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+  <a class="navbar-brand" href="/"><img id="nav-headshot" src="/assets/img/square_headshot_new.jpg" width="50" height="50" class="d-inline-block align-top rounded-img" alt=""></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="/">Main</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/products/">Products</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/essays/">Essays</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/notes/">Notes</a>
+      </li>
+    </ul>
+    <ul class="nav navbar-nav ml-auto">
+        <li class="nav-item">
+            <a target="_blank" href="http://youtube.kiely.xyz" class=""><i class="fab fa-youtube red-text"></i></a>
+            &NonBreakingSpace;
+            <a target="_blank" href="https://github.com/philipkiely" class=""><i class="fab fa-github white-text"></i></a>
+            &NonBreakingSpace;
+            <a target="_blank" href="https://twitter.com/philip_kiely" class=""><i class="fab fa-twitter blue-text"></i></a>
+            &NonBreakingSpace;
+            <a target="_blank" href="https://linkedin.com/in/philipkiely" class=""><i class="fab fa-linkedin-in white-text"></i></a>
+            &NonBreakingSpace;
+            <a target="_blank" href="https://news.ycombinator.com/user?id=philipkiely" class=""><i class="fab fa-hacker-news orange-text"></i></a>
+            &NonBreakingSpace;
+            <a target="_blank" href="https://www.goodreads.com/author/show/20497839.Philip_Kiely" class=""><i class="fab fa-goodreads white-text"></i></a>
+            &NonBreakingSpace;
+            <a target="_blank" href="https://www.snapchat.com/add/philipkiely" class=""><i class="fab fa-snapchat yellow-text"></i></a>
+            &NonBreakingSpace;
+            <a target="_blank" href="https://www.instagram.com/philip_kiely/" class=""><i class="fab fa-instagram pink-text"></i></a>
+            &NonBreakingSpace;
+            &NonBreakingSpace;
+        </li>
+    </ul>
+        <a href="mailto:philip@kiely.xyz" class="nav-link btn btn-outline-primary">Email</a>
+  </div>
+</nav>
+ <div class="container">
+  
+<div class="row">
+    <div class="col-12 col-md-6">
+        <br />
+        <h1 class="primary-accent-text">Philip Kiely & Company</h1>
+        <br />
+        <h3>I work with businesses of all sizes to turn content and code into business solutions.</h3>
+        <br>
+        <p>Newish! Listen to my <a href="https://www.se-radio.net/2020/09/episode-426-philip-kiely-on-writing-for-software-developers/">interview on IEEE's Software Engineering Radio</a>.</p>
+        <h3>Philip Kiely</h3>
+        <p>I started my career as a software engineer, but I currently work as the <a href="/essays/gumroad_hom.html">Head of Marketing at Gumroad</a>. I have written for <a href="/notes/posts.html">these publications</a> and appeared on <a href="/notes/appearances.html">these shows</a>. I wrote <a href="/wfsd">a book</a> which sold <a href="essays/wfsd_financials.html">pretty well</a>.</p>
+        <h3>& Company</h3>
+        <p>I'm lucky enough to work with some fantastic subcontractors.</p>
+        <br />
+        <hr>
+        <br />
+        <h3>Services</h3>
+        <a href="mailto:philip@kiely.xyz?subject=Technical%20Content%20Contract%20Project"><button class="btn btn-primary btn-large">Contract Projects</button></a>
+        <a href="/notes/consulting_calls.html"><button class="btn btn-primary btn-large">50-Minute Consulting Calls</button></a>
+        <br />
+        <h3>Products</h3>
+        <a href="/wfsd"><button class="btn btn-primary btn-large">Book: Writing for Software Developers</button></a>
+        <br />
+        <br />
+        <hr>
+        <br />
+        <p>
+        "Philip is a real pro. His content is well-written, relevant to our market of test engineers and localization experts, and deep enough to be reference material. He's communicative, and he easily fit himself into our content process. Highly recommended."
+        </p>
+        <p>
+            <i>&mdash; <a href="https://www.linkedin.com/in/preinheimer/">Paul Reinheimer</a>, CEO at <a href="https://wonderproxy.com">WonderProxy</a>.</i>
+        </p>
+        <br />
+        <p>Further enthusiastic references provided upon request.</p>
+        <p>Please direct all inquiries to <a href="mailto:philip@kiely.xyz">philip@kiely.xyz</a>.
+        <br />
+    </div>
+    <div class="col-12 col-md-6">
+        <br />
+        <img class="img-fluid" src="/assets/img/BlurredCapitol.jpg" alt="Philip standing by Iowa State Capitol">
+        <br />
+    </div>
+    <br />
+</div>
+
+ </div>
+ <footer class="py-5 bg-dark main-footer">
+   <div class="container">
+     <p class="text-center white-text">philipkiely.com V3.2.<!--PATCH-->5<!--PATCH--> | Proudly Handcrafted Since 2017 | <a href="/old/V2/index.html">V2</a> | <a href="/old/V1/index.html">V1</a> | <a href="/old/V0/index.html">V0</a> | <a href="/sitemap/">sitemap</a></p>
+     <p class="text-center white-text">Built with <a href="https://github.com/getpelican/pelican">Pelican</a>, <a href="https://jinja.palletsprojects.com/">Jinja</a>, <a href="https://getbootstrap.com">Bootstrap</a>, <a href="http://fontawesome.io">Font Awesome</a>, and <a href="https://fonts.google.com">Google Fonts</a>. Hosted with <a href="https://netlify.com">Netlify</a>.</p>
+     <h5 class="text-center">
+       <a target="_blank" href="http://youtube.kiely.xyz" class=""><i class="fab fa-youtube red-text"></i></a>
+       &NonBreakingSpace;
+       <a target="_blank" href="https://github.com/philipkiely" class=""><i class="fab fa-github white-text"></i></a>
+       &NonBreakingSpace;
+       <a target="_blank" href="https://twitter.com/philip_kiely" class=""><i class="fab fa-twitter blue-text"></i></a>
+       &NonBreakingSpace;
+       <a target="_blank" href="https://linkedin.com/in/philipkiely" class=""><i class="fab fa-linkedin-in white-text"></i></a>
+       &NonBreakingSpace;
+       <a target="_blank" href="https://news.ycombinator.com/user?id=philipkiely" class=""><i class="fab fa-hacker-news orange-text"></i></a>
+       &NonBreakingSpace;
+       <a target="_blank" href="https://www.goodreads.com/author/show/20497839.Philip_Kiely" class=""><i class="fab fa-goodreads white-text"></i></a>
+       &NonBreakingSpace;
+       <a target="_blank" href="https://www.snapchat.com/add/philipkiely" class=""><i class="fab fa-snapchat yellow-text"></i></a>
+       &NonBreakingSpace;
+       <a target="_blank" href="https://www.instagram.com/philip_kiely/" class=""><i class="fab fa-instagram pink-text"></i></a>
+       &NonBreakingSpace;
+       <a target="_blank" href="mailto:philip@kiely.xyz" class="">Email</a>
+     </h5>
+     <hr>
+     <p class="text-center white-text">Copyright &copy; 2017&ndash;<span id="year">2020</span> Philip Kiely & Company</p>
+   </div><!-- /.container -->
+ </footer>
+ <script src="/assets/script.js"></script>
+ </body>
+ </html>
